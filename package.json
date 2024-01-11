@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "run": "node app.js"
+  },
+  "dependencies": {
+    "mongodb": "^6.3.0"
+  }
+}
